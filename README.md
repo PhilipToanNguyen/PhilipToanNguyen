@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **Philip2an@hotmail.com**
 
-<h3 align="left">Connect with me: Philip2an@hotmail.com </h3>
 <p align="left">
 </p>
 
