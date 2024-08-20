@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philip Ng</h1>
 - 🎓 Recently graduated and currently seeking a position as a developer or in IT operations and maintenance.
-- 📫 How to reach me: **philiptoannguyen@gmail.com** 
-- 🖥️ Portfolio: **https://philiptn.no/**
+- 📫 How to reach me: philiptoannguyen@gmail.com
+- 🖥️ Portfolio: https://philiptn.no/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
